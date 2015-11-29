@@ -11,9 +11,9 @@ This is material for Data Camps (e.g. Smart Data with Microsoft Azure) in German
    - HDInsight
    - Spark in Azure
    - Power BI
-3. [Streaming in Azure](3 Streaming in Azure/readme.md)
+3. [Streaming in Azure](3 Streaming)
    - Technologies: Azure Event Hubs, Azure Stream Analytics, Power BI
    - Hands-on-Lab: Creating resources and an Azure Stream Analytics job
-4. [Predictive Analytics in Azure](4 Machine Learning/readme.md)
+4. [Predictive Analytics in Azure](4 Machine Learning)
    - Azure Machine Learning
    - Hands-on-Lab: Binary classification, recommender engines
