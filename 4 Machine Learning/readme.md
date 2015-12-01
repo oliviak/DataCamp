@@ -11,6 +11,7 @@ Here you will learn the following:
 - use the MatchBox Recommender in the ML Studio.
 
 Hands-on-Labs:
+
 1. [Binary Classification: Targeted Marketing](https://github.com/oliviak/Recommender-in-Azure/tree/master/2%20Targeted%20Marketing)
 2. [Recommender Engine: Collaborative Filtering](https://github.com/oliviak/Recommender-in-Azure/tree/master/3%20Collaborative%20Filtering)
 3. [Recommender Engine: MatchBox Recommender](https://github.com/oliviak/Recommender-in-Azure/tree/master/4%20Content-Filtering%20and%20Hybrid%20recommender)
